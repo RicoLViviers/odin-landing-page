@@ -132,3 +132,34 @@ body {
     padding-left: 200px;
     padding-right: 200px;
 }
+
+.call-to-action {
+    background-color: white;
+    color: #1F2937;
+    text-align: center;
+    padding: 80px;
+}
+
+.call-to-action-container {
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    font-size: 18px;
+    height: 150px;
+}
+
+.cta-button
+{
+    background-color: transparent;
+    color: white;
+    border-color: #ffffff;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+}

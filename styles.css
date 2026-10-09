@@ -163,3 +163,11 @@ body {
     height: 30px;
     font-size: 18px;
 }
+
+.footer
+{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+}
